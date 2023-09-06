@@ -10,4 +10,5 @@ Final Project covering topics:
 - Python
 - Power BI
 - Presentation
+
 In the description you are going to find the questions answer per topic.
