@@ -9,4 +9,5 @@ Final Project covering topics:
 - SQL
 - Python
 - Power BI
+- Presentation
 In the description you are going to find the questions answer per topic.
